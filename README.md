@@ -1,0 +1,3 @@
+# Minishop
+
+Minishop with VanillaJS
